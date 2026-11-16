@@ -1,0 +1,9 @@
+# Secret API Keys
+.env
+
+# Python & Jupyter temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
